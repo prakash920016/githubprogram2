@@ -1,1 +1,2 @@
-
+this is my new repository
+This change was added to complete the commit.
